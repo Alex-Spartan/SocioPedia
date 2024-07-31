@@ -13,22 +13,15 @@
 ### 1. React
 ### 2. MUI
 ### 3. Express
-### 4. MongoDB
-
-
-<br>
+### 4. MongoDB<br>
 
 ## Home Page<br>
-![Home Page Light](https://github.com/Alex-Spartan/SocioPedia/blob/main/server/public/assets/SocioPedia%20light.png)
-
-<br>
-![Home Paget Dark](https://github.com/Alex-Spartan/SocioPedia/blob/main/server/public/assets/SocioPedia%20dark.png)
-</br>
-<br>
+![Home Page Light](https://github.com/Alex-Spartan/SocioPedia/blob/main/server/public/assets/SocioPedia%20light.png)<br>
+![Home Paget Dark](https://github.com/Alex-Spartan/SocioPedia/blob/main/server/public/assets/SocioPedia%20dark.png)<br>
 
 ## Making Post<br>
-![Post](https://github.com/Alex-Spartan/SocioPedia/blob/main/server/public/assets/Making%20post.png)
 
-<br>
-![Post](https://github.com/Alex-Spartan/SocioPedia/blob/main/server/public/assets/Post.png)
-</br>
+![Post](https://github.com/Alex-Spartan/SocioPedia/blob/main/server/public/assets/Making%20post.png)<br>
+
+
+![Post](https://github.com/Alex-Spartan/SocioPedia/blob/main/server/public/assets/Post.png)</br>
