@@ -14,15 +14,18 @@
 ### 4. MongoDB
 
 
-## Screenshots 
-</br>
 
 ## Home Page
 ![Home Page Light](https://github.com/Alex-Spartan/SocioPedia/blob/main/server/public/assets/SocioPedia%20light.png)
+
+
 ![Home Paget Dark](https://github.com/Alex-Spartan/SocioPedia/blob/main/server/public/assets/SocioPedia%20dark.png)
 </br>
 
+
 ## Making Post
 ![Post](https://github.com/Alex-Spartan/SocioPedia/blob/main/server/public/assets/Making%20post.png)
+
+
 ![Post](https://github.com/Alex-Spartan/SocioPedia/blob/main/server/public/assets/Post.png)
 </br>
