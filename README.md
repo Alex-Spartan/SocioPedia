@@ -17,5 +17,5 @@
 
 
 
-![Screenshot 1](path/to/screenshot1.png)
+![Screenshot 1](https://github.com/Alex-Spartan/SocioPedia/blob/main/server/public/assets/Making%20post.png)
 ![Screenshot 2](path/to/screenshot2.png)
